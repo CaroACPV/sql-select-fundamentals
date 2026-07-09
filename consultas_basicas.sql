@@ -1,4 +1,9 @@
 -- UNIDAD 4
+-- ══════════════════════════════════════════
+-- TechStore — Consultas Básicas SELECT
+-- Autor: Carolina Povis Vinces
+-- Fecha: 9/07/2026
+-- ══════════════════════════════════════════
 
 DROP TABLE IF EXISTS sales;
 
